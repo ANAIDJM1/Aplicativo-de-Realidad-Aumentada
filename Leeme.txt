@@ -1,22 +1,23 @@
-La aplicacion esta dise�ada a partir
+La aplicacion esta diseñada a partir
 del tema "SUSTANTIVOS" en el libro (Pg.3)
 
 -la aplicacion a instalar en el celular
 es el archivo con nombre: "infotec-aplicacion-cel.apk"
-(Funciona con S.O Android 4.5 a m�s)
+(Funciona con S.O Android 4.5 a más)
 
 
 
 
-
+Link de descarga: apk: https://drive.google.com/file/d/1Cs2ydGvB-aLjnq74AzSqb06KZ90DGg7p/view?usp=sharing
 
 
 
 
 
 -El manual del libro esta dispuesto para su libre
-impresion, m�s no su comercializaci�n.
+impresion, más no su comercialización.
 Desarrolladores:
-�Jimenez Moreano Anaid, Marocho Capa Karen Madeleine, Lovon
+©Jimenez Moreano Anaid, Marocho Capa Karen Madeleine, Lovon
 Corazao Reyna, Escobedo Baca Kyle
 
+Cusco - Perú
