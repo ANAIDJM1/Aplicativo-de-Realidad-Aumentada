@@ -1,5 +1,6 @@
 La aplicacion esta diseñada a partir
 del tema "SUSTANTIVOS" en el libro (Pg.3)
+Sistema desarrollado en Unity con apoyo de Vuforia.
 
 -la aplicacion a instalar en el celular
 es el archivo con nombre: "infotec-aplicacion-cel.apk"
@@ -8,7 +9,7 @@ es el archivo con nombre: "infotec-aplicacion-cel.apk"
 
 
 
-Link de descarga: apk:  http://www.mediafire.com/file/h19s1im3q9nsgc0/infotec.apk/file
+Link de descarga: apk:  http://www.mediafire.com/folder/hiniyjtio3w17/aplicativo_mobil
 
 
 
